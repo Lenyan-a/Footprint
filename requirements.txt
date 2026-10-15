@@ -1,0 +1,14 @@
+# Core symbolic computation
+sympy>=1.12
+numpy>=1.24
+
+# Circuit visualization (used in the notebooks only for rendering, not simulation)
+qiskit>=1.0
+pylatex>=0.4
+
+# Plotting
+matplotlib>=3.7
+
+# Notebook environment
+jupyter>=1.0
+notebook>=7.0
