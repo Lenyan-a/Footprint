@@ -81,8 +81,8 @@ without re-running the cells.
 .
 ├── IsingFootprint.ipynb             # symbolic verification, Ising case
 ├── FibonacciFootprint.ipynb         # symbolic verification, Fibonacci case
-├── Ising footprint computation.docx # accompanying written notes (Ising)
-├── Fibonacci transport.docx         # accompanying written notes (Fibonacci)
+├── Ising footprint computation.pdf # accompanying written notes (Ising)
+├── Fibonacci transport.pdf         # accompanying written notes (Fibonacci)
 ├── requirements.txt
 ├── LICENSE
 └── README.md
