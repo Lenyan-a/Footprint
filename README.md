@@ -149,7 +149,7 @@ code cells with a markdown header naming the proposition.
 - Only the $4$-Ising and $6$-Ising cases are covered symbolically. The
   general $2m$-Ising chain is treated analytically in Chapter 5 of the
   thesis and is not re-derived here.
-- The written notes in `.docx` form contain the intermediate steps that the
+- The written notes in `.pdf` form contain the intermediate steps that the
   notebooks check symbolically; they are not a substitute for the
   notebooks and vice versa.
 
